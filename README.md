@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Azhar9076/leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Azhar9076/leetcode/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Azhar9076/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Azhar9076/leetcode/tree/master/0596-classes-with-at-least-5-students) |
