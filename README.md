@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Azhar9076/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Azhar9076/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Azhar9076/leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Azhar9076/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Azhar9076/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Azhar9076/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Azhar9076/leetcode/tree/master/0217-contains-duplicate) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Azhar9076/leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Azhar9076/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
