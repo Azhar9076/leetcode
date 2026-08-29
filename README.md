@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Azhar9076/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Azhar9076/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Azhar9076/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/Azhar9076/leetcode/tree/master/1550-three-consecutive-odds) |
 | [3925-concatenate-array-with-reverse](https://github.com/Azhar9076/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Azhar9076/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Azhar9076/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
