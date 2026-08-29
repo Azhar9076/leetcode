@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Azhar9076/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Azhar9076/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Azhar9076/leetcode/tree/master/0290-word-pattern) |
+| [1108-defanging-an-ip-address](https://github.com/Azhar9076/leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
