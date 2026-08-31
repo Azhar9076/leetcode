@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Azhar9076/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Azhar9076/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Azhar9076/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1550-three-consecutive-odds](https://github.com/Azhar9076/leetcode/tree/master/1550-three-consecutive-odds) |
 | [3925-concatenate-array-with-reverse](https://github.com/Azhar9076/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Azhar9076/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Azhar9076/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
