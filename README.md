@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Azhar9076/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Azhar9076/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Azhar9076/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Azhar9076/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1089-duplicate-zeros](https://github.com/Azhar9076/leetcode/tree/master/1089-duplicate-zeros) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Azhar9076/leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Azhar9076/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Azhar9076/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Azhar9076/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
