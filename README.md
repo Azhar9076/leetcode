@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Azhar9076/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Azhar9076/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Azhar9076/leetcode/tree/master/0290-word-pattern) |
+| [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Azhar9076/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3340-check-balanced-string](https://github.com/Azhar9076/leetcode/tree/master/3340-check-balanced-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Azhar9076/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Azhar9076/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Azhar9076/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
