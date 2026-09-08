@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Azhar9076/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Azhar9076/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Azhar9076/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Azhar9076/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Azhar9076/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/Azhar9076/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 | [3903-smallest-stable-index-i](https://github.com/Azhar9076/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Azhar9076/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
