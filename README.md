@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Azhar9076/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Azhar9076/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Azhar9076/leetcode/tree/master/0338-counting-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Azhar9076/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Matrix
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Azhar9076/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Azhar9076/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Azhar9076/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Azhar9076/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Azhar9076/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Azhar9076/leetcode/tree/master/1137-n-th-tribonacci-number) |
