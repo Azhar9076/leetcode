@@ -148,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Azhar9076/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3340-check-balanced-string](https://github.com/Azhar9076/leetcode/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Azhar9076/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Azhar9076/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Azhar9076/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Azhar9076/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
