@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Azhar9076/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhar9076/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Azhar9076/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Azhar9076/leetcode/tree/master/0229-majority-element-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Azhar9076/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Azhar9076/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Azhar9076/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/Azhar9076/leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Azhar9076/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Azhar9076/leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Azhar9076/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Azhar9076/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Matrix
 |  |
