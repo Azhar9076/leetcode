@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Azhar9076/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/Azhar9076/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Azhar9076/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Azhar9076/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Azhar9076/leetcode/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Azhar9076/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Azhar9076/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Azhar9076/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Azhar9076/leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Azhar9076/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Azhar9076/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Azhar9076/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -331,4 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Azhar9076/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Azhar9076/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Azhar9076/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Azhar9076/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
