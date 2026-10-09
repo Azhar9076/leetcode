@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Azhar9076/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Azhar9076/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Azhar9076/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Azhar9076/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Azhar9076/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Azhar9076/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Azhar9076/leetcode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Azhar9076/leetcode/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/Azhar9076/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
