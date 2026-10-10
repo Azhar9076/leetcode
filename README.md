@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Azhar9076/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Azhar9076/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Azhar9076/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Azhar9076/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Azhar9076/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Azhar9076/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Azhar9076/leetcode/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Azhar9076/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Azhar9076/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
