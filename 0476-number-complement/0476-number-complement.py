@@ -1,8 +1,8 @@
 class Solution:
     def findComplement(self, num: int) -> int:
-        num = bin(num) [2:]
+        nums = bin(num) [2:]
         complement = ''
-        for n in num:
+        for n in nums:
             if n == '0':
                 complement += str(1)
             else :
