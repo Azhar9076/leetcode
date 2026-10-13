@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Azhar9076/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Azhar9076/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Azhar9076/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Azhar9076/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Azhar9076/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Azhar9076/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Azhar9076/leetcode/tree/master/0169-majority-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Azhar9076/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Azhar9076/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Azhar9076/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Azhar9076/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Azhar9076/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Azhar9076/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
