@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Azhar9076/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Azhar9076/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Azhar9076/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Azhar9076/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Azhar9076/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1331-rank-transform-of-an-array](https://github.com/Azhar9076/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Azhar9076/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Azhar9076/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Azhar9076/leetcode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Azhar9076/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Azhar9076/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Azhar9076/leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Azhar9076/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Azhar9076/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Azhar9076/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Azhar9076/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Azhar9076/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Azhar9076/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Azhar9076/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Azhar9076/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/Azhar9076/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Azhar9076/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/Azhar9076/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Azhar9076/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Azhar9076/leetcode/tree/master/0709-to-lower-case) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Azhar9076/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Azhar9076/leetcode/tree/master/0506-relative-ranks) |
 ## Counting Sort
 |  |
@@ -383,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Azhar9076/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Azhar9076/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
