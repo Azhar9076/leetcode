@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Azhar9076/leetcode/tree/master/0525-contiguous-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Azhar9076/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Azhar9076/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Azhar9076/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1331-rank-transform-of-an-array](https://github.com/Azhar9076/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhar9076/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azhar9076/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Azhar9076/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Azhar9076/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Azhar9076/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1108-defanging-an-ip-address](https://github.com/Azhar9076/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Azhar9076/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Azhar9076/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Azhar9076/leetcode/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Azhar9076/leetcode/tree/master/0832-flipping-an-image) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Azhar9076/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Azhar9076/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Matrix
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Azhar9076/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Azhar9076/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Azhar9076/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
