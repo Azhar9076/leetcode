@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Azhar9076/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Azhar9076/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Azhar9076/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Azhar9076/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Azhar9076/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Azhar9076/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Azhar9076/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Azhar9076/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Azhar9076/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Azhar9076/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Azhar9076/leetcode/tree/master/0263-ugly-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Azhar9076/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
@@ -416,4 +420,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Azhar9076/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
