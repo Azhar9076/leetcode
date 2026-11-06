@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Azhar9076/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Azhar9076/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Azhar9076/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Azhar9076/leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Azhar9076/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Azhar9076/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Azhar9076/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhar9076/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azhar9076/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/Azhar9076/leetcode/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Azhar9076/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Azhar9076/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Azhar9076/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Azhar9076/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Azhar9076/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Azhar9076/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/Azhar9076/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Azhar9076/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Azhar9076/leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhar9076/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2540-minimum-common-value](https://github.com/Azhar9076/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Azhar9076/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
