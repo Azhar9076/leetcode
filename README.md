@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Azhar9076/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Azhar9076/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Azhar9076/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Azhar9076/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Azhar9076/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Azhar9076/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Azhar9076/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
