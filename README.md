@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Azhar9076/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Azhar9076/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Azhar9076/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Azhar9076/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Azhar9076/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Azhar9076/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Azhar9076/leetcode/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Azhar9076/leetcode/tree/master/0832-flipping-an-image) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Azhar9076/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Azhar9076/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Azhar9076/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Matrix
