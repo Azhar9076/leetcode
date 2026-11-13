@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Azhar9076/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Azhar9076/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Azhar9076/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Azhar9076/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Azhar9076/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Azhar9076/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
