@@ -5,10 +5,10 @@ class Solution:
             if num1 < num2:
                 num2 = num2 - num1
                 count += 1
-            if num1 > num2:
+            elif num1 > num2:
                 num1 = num1- num2
                 count += 1
-            if num1 == num2:
+            else :
                 num2 = num2 - num1
                 num1 = num2
                 count += 1
