@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Azhar9076/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Azhar9076/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/Azhar9076/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Azhar9076/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Azhar9076/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Azhar9076/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
