@@ -1,8 +1,13 @@
 class Solution:
     def removeZeros(self, n: int) -> int:
-        decimal = str(n)
-        ans = ''
-        for i in range(len(decimal)):
-            if decimal[i] != '0':
-                ans += decimal[i]
-        return int(ans)        
+        decimal = 0
+        place = 1
+        result = 0
+        while n > 0:
+            decimal = n % 10
+            if decimal != 0:
+                result += decimal * place
+                place *= 10
+            n //= 10     
+
+        return result    
