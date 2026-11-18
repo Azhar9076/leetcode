@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Azhar9076/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Azhar9076/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/Azhar9076/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/Azhar9076/leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Azhar9076/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Azhar9076/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Azhar9076/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Azhar9076/leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Azhar9076/leetcode/tree/master/1952-three-divisors) |
 ## Memoization
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Azhar9076/leetcode/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Azhar9076/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Backtracking
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Azhar9076/leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Azhar9076/leetcode/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -533,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Azhar9076/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Azhar9076/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
