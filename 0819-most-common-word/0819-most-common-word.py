@@ -1,14 +1,15 @@
 import re
-
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: list[str]) -> str:
-        words = re.sub(r'[^a-zA-Z\s]', ' ', paragraph).lower().split()
+        paragraph = re.sub(r'[^a-zA-Z\s]', ' ', paragraph)
+        para = paragraph.lower().split()
         banned = set(banned)
+        hashdict = {}        
 
-        freq = {}
-
-        for word in words:
+        for word in para:
             if word not in banned:
-                freq[word] = freq.get(word, 0) + 1
+                hashdict[word] = hashdict.get(word, 0) + 1   
+        return max(hashdict, key=hashdict.get)    
 
-        return max(freq, key=freq.get)
+
+        
