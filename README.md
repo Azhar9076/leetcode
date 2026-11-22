@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Azhar9076/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Azhar9076/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Azhar9076/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Azhar9076/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Azhar9076/leetcode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Azhar9076/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Azhar9076/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/Azhar9076/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Azhar9076/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Azhar9076/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Azhar9076/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3340-check-balanced-string](https://github.com/Azhar9076/leetcode/tree/master/3340-check-balanced-string) |
