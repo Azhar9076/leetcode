@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Azhar9076/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Azhar9076/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Azhar9076/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1641-count-sorted-vowel-strings](https://github.com/Azhar9076/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Azhar9076/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/Azhar9076/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Azhar9076/leetcode/tree/master/1952-three-divisors) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Azhar9076/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Azhar9076/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1641-count-sorted-vowel-strings](https://github.com/Azhar9076/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/Azhar9076/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
@@ -562,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Azhar9076/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Azhar9076/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
