@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Azhar9076/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Azhar9076/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1108-defanging-an-ip-address](https://github.com/Azhar9076/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1332-remove-palindromic-subsequences](https://github.com/Azhar9076/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Azhar9076/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Azhar9076/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Azhar9076/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Azhar9076/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Azhar9076/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Azhar9076/leetcode/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/Azhar9076/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhar9076/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/Azhar9076/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Azhar9076/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
